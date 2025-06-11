@@ -1,0 +1,7 @@
+**/__pycache__/
+
+rag_pipeline/history/*
+rag_pipeline/vector_db/*
+
+!rag_pipeline/history/.gitkeep
+!rag_pipeline/vector_db/.gitkeep
